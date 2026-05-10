@@ -127,7 +127,7 @@ I am passionate about **automation, performance optimization, and mentoring DevO
 
 ## 📊 GitHub Stats  
 
-[![Imranul's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranulhasan0)](https://github.com/imranulhasan0/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=imranulhasan0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/imranulhasan0github-readme-stats#gh-dark-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=testgithubj&layout=compact&theme=radical)  
 
 ---
