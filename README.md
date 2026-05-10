@@ -5,6 +5,9 @@
   </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F71B&center=true&vCenter=true&width=700&height=70&lines=DevOps+Engineer;Platform%7CEngineering;Cloud%7CAutomation%7CCI%7CCD%7CAWS%7CKubernetes)](https://git.io/typing-svg)
+
+
 ---
 
 # 👨‍💻 Imranul Hasan
