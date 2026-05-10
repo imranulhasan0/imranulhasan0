@@ -20,6 +20,7 @@
 ## 🚀 About Me  
 
 I am a **Senior DevOps Engineer** with extensive experience in **automation, virtualization, cloud infrastructure, and software module development**.  
+
 With a strong foundation in **VMware virtualization** and **cloud-native services (AWS, Terraform, Jenkins, Docker, Ansible, Zabbix)**, I have led the design and deployment of **scalable, secure, and cost-optimized systems** for enterprises.  
 
 My career spans from **software development** (building enterprise applications) to **DevOps leadership**, giving me a unique edge in understanding both development and infrastructure lifecycles.  
