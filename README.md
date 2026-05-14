@@ -13,7 +13,7 @@
 **Senior DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | AWS | K8**  
 
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/imranulhasan/)  
-📄 [📥 Download My Resume](./resume.pdf)  
+📄 [📥 Download My Resume](https://github.com/imranulhasan0/resume/blob/main/Imranul%20Hasan%20Resume.pdf)  
 
 ---
 
